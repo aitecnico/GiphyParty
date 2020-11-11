@@ -1,3 +1,2 @@
 # GiphyParty
-
-
+GiphyParty
